@@ -1,0 +1,39 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/Julian/OneDrive/Meteor/temp/expo/android/app/build/intermediates/incremental/mergeDevMinSdkDevKernelDebugResources/merged.dir/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "/Users/Julian/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/e99b003f65d11c35ec1afe10fc81a592/res/values-v11/values-v11.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "10",
+                        "endOffsets": "329"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "192",
+                        "endLines": "9",
+                        "endColumns": "10",
+                        "endOffsets": "466"
+                    }
+                },
+                {
+                    "source": "/Users/Julian/.gradle/caches/transforms-1/files-1.1/CreditCardEntry-1.4.8.4.aar/08a7eec71f749431f37c1b8d7430089e/res/values-v11/values-v11.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        }
+    ]
+}
